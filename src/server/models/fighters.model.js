@@ -1,0 +1,1 @@
+fighters.model.js
